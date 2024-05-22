@@ -1,2 +1,3 @@
 # irfan-804-demo
-its fun man
+this is my first git and i ma very nervous
+
